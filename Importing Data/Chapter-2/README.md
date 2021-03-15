@@ -8,8 +8,11 @@ In this jupyter notebook, I have explained how to online access financial data t
 1. Importing necessary libraries
 2. Importing Pandas DataReader package
 3. FRED (Federal Reserve Economic Data) Website
-4. Naver Finance Data Website
-5. Conclusion
+    - Accessing **Unemployment Data**
+5. Naver Finance Data Website
+    - Accessing **Kia Motors Stocks Data**
+    - Accessing **Hyundai Motor Company Stocks Data**
+7. Conclusion
 
 ---
 **In this juypter notebook, I have explained how to online access financial data from Federal Reserve, Naver Finance through the pandas DataReader package.**
