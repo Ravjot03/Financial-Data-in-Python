@@ -12,10 +12,10 @@ This repository is further divided into 2 sub-parts -
 
 In this sub-part, I have explained how to import, clean and combine data from Excel Workbook Sheets to Pandas DataFrame.
 
-I have worked on AMEX Stock Listings Dataset.
+I have worked on *AMEX Stock Listings Dataset*.
 
 ## 2. [CHAPTER - 2](https://github.com/Ravjot03/Financial-Data-in-Python/tree/main/Importing%20Data/Chapter-2)
 
 In this part, I have explained how to online access financial data through the Pandas DataReader package.
 
-I have worked on Unemployment Data, also on, Kia Motors and Hyundai Motor Company Stocks Data.
+I have worked on *Unemployment Data, also on, Kia Motors and Hyundai Motor Company Stocks Data*.
