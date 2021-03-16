@@ -29,4 +29,4 @@ In this jupyter notebook, I have explained how to group data by one or more cate
 
 ---
 ## Data Info :
-I have used Stock Listings data. You can download it from [here](https://github.com/Ravjot03/Financial-Data-in-Python/blob/main/Managing%20Data/Chapter-2/listings.xlsx).
+I have used Stock Listings dataset. You can download it from [here](https://github.com/Ravjot03/Financial-Data-in-Python/blob/main/Managing%20Data/Chapter-2/listings.xlsx).
