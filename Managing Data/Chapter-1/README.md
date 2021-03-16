@@ -3,6 +3,7 @@
 ## Description :
 In this jupyter notebook, I have explained how to capture key characterstics of variables and to understand distribution of variables in the dataset.
 
+---
 ## Contents :
 1. Importing the required libraries.
 2. Summarizing Data with Descriptive Stats
@@ -23,3 +24,7 @@ In this jupyter notebook, I have explained how to capture key characterstics of 
       - 10-year Treasury Historical distribution
  4. Summarizing Categorical Variables
  5. Conclusion
+
+---
+## Data Info :
+I have used Stock Listings Dataset. You can download it from [here](https://github.com/Ravjot03/Financial-Data-in-Python/blob/main/Managing%20Data/Chapter-1/listings.xlsx).
