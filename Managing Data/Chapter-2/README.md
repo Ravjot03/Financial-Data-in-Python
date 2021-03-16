@@ -1,7 +1,7 @@
 # Aggregating & Describing Financial Data
 
 ## Description :
-In this jupyter notebook, I have explained how to group data by one or more categorical variables, and to calculate and visualize summary statistics for each caategory.
+In this jupyter notebook, I have explained how to group data by one or more categorical variables, and to calculate and visualize summary statistics for each category.
 
 ---
 ## Contents :
